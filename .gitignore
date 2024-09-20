@@ -1,1 +1,12 @@
-samples/
+# Splunk Files and Folders
+sample_data/
+local/
+lookup_file_backups/
+local.meta
+addon_builder.conf
+
+# MacOS Files
+.DS_Store
+
+# Other
+.vscode
